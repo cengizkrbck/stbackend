@@ -27,3 +27,11 @@ _survey-controller_ endpoint includes methods to create or list questions.
 _results-controller_ endpoint includes methods to submit or populate subject user's answers.
 
 
+## Future works 
+Unable to find time to implement this tasks. (it is not an excuse, just fyi) 
+
+- enrich swagger documentation
+- support follow-up question
+- tests
+- rest-api validations
+- simple angular frontend to play with backend API
